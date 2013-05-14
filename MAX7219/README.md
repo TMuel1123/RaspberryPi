@@ -14,6 +14,10 @@ Right bread board:
 
 If you live in germany and want ot order parts from adafruit I can highly recommend to order them from Watterott.com which is a german reseller
 
+Important
+---------
+To get this code up and running it is necessary to have the WiringPi libraries installed.
+Take a closer look onto this page http://wiringpi.com/ for further informations.
+
 More information comes soon...
 
-  
